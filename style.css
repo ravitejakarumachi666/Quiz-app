@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+.container{
+    width: 40%;
+    height: 60%;
+    margin: 150px 450px;
+    background-color:whitesmoke;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 5px 5px 5px 5px black;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 19px;
+}
+.home{
+    padding: 40px 50px;
+}
+.next-btn{
+    margin-top: 20px;
+}
+button{
+    font-size: 15px;
+    width: 60%;
+    height: 7%;
+    border-radius: 10px;
+    background-color: rgb(76, 43, 226);
+    color: whitesmoke;
+}
